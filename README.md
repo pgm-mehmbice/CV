@@ -1,5 +1,5 @@
 # Bicer Mehmet
-![](./img/`foto.png`)
+![](./img/foto.png)
 ## Graduaat Programmeren
 ## 9000 Gent
 ## Contact:
